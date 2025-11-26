@@ -267,3 +267,9 @@ A sombra "brigava" com a superfície da mesa.
 ## Screenshots
 
 As capturas de tela da cena estão na pasta `prints/`.
+
+![Screenshot 1](prints/image_01.png)
+
+![Screenshot 2](prints/image_02.png)
+
+![Screenshot 3](prints/image_03.png)
